@@ -23,9 +23,7 @@ I play League of Legends (LOL), and also I like programing, yeah the world somet
 
 </div>
 
-#### social media
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter2.svg" />
+badages taken from [here](https://github.com/ziadOUA/m3-Markdown-Badges/tree/master)
 <!--
 **Victorinolavida/Victorinolavida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
