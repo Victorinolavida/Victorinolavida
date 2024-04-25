@@ -4,6 +4,8 @@ I am Victorino Lavida, I am currently working in [Strade World](https://reseller
 I'm currently living in Mexico City, I like videogames, I've finished recently Red Dead Redemption 2 🤠, 
 I play League of Legends (LOL), and also I like programing, yeah the world sometimes is cruel.
 
+My website [victorinolavida.com](https://www.victorinolavida.com/)
+
 
 ## Skills
 <div>
@@ -14,6 +16,7 @@ I play League of Legends (LOL), and also I like programing, yeah the world somet
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Docker/docker1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NextJS/nextjs1.svg" />
 </div>
+
 
 ## Learning
 <div>
