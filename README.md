@@ -1,15 +1,15 @@
 # Hi there 👋
 
-I am Victorino Lavida, I am currently working in [Strade World](https://resellers.stradeworld.com/) 🚀.
-I'm currently living in Mexico City, I like videogames, I've finished recently Red Dead Redemption 2 🤠, 
-I play League of Legends (LOL), and also I like programing, yeah the world sometimes is cruel.
+I am Victorino Lavida, I am currently working in [Cicada](https://www.cicada.io/) 📈📈.
+I'm currently living in Mexico City, My best hobbit is make React slow.
+I like learn how React works, and I like write some Go (Golang) code.
 
 My website [victorinolavida.com](https://www.victorinolavida.com/)
 
 
 ## Skills
 <div>
-  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react3.svg" />
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg" />
@@ -22,8 +22,7 @@ My website [victorinolavida.com](https://www.victorinolavida.com/)
 <div>
   
 <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Go/go3.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" />
-
+<!-- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Java/java1.svg" /> -->
 </div>
 
 badages taken from [here](https://github.com/ziadOUA/m3-Markdown-Badges/tree/master)
